@@ -139,6 +139,15 @@ margin: 10%; }
     .stats-columns > *{
         flex-basis: 100%;
     }
+    .columns1{
+        order:1;
+    }
+    .columns2{
+        order: 2;
+    }
+    .columns3{
+        order: 3;
+    }
     
     .stats-columns h2{
         
